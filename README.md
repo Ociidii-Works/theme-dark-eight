@@ -4,11 +4,17 @@ I finally found a theme that I liked but it wasn't DARK enough. So, here I prese
 
 Some aspects of it are a bit messy internally. But, it works perfectly as far as I can tell.
 
-Just add the following to User preferences:
+At some point in time I may clean up the theme internals.. or feel free to contribute.
+
+# Installation
+
+Launch Sublime Text then choose the menu bar options PREFERENCES then BROWSE PACKAGES.
+
+Clone this repo into Packages/Theme - Dark Eight
+
+Then, just add this line to your user settings file PREFERENCES -> SETTINGS - USER:
 
     "theme": "Eight.sublime-theme",
-
-At some point in time I may clean up the theme internals.. or feel free to contribute.
 
 ## License
 
