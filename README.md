@@ -10,6 +10,8 @@ At some point in time I may clean up the theme internals.. or feel free to contr
 
 The syntax highlighting theme is Blue Dawn. [Available Here](https://github.com/daylerees/colour-schemes)
 
+The font is Essential PragmataPro. [Available Here](http://www.myfonts.com/fonts/fsd/essential-pragmata-pro/)
+
 # Installation
 
 Launch Sublime Text then choose the menu bar options PREFERENCES then BROWSE PACKAGES.
