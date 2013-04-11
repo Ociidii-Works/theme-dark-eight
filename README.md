@@ -6,6 +6,10 @@ Some aspects of it are a bit messy internally. But, it works perfectly as far as
 
 At some point in time I may clean up the theme internals.. or feel free to contribute.
 
+![Dark Eight Theme](http://screencloud.net/img/screenshots/710fed128dd5fa98d508da7370c16502.png)
+
+The syntax highlighting theme is Blue Dawn. [Available Here](https://github.com/daylerees/colour-schemes)
+
 # Installation
 
 Launch Sublime Text then choose the menu bar options PREFERENCES then BROWSE PACKAGES.
