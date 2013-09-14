@@ -16,7 +16,7 @@ The font is Essential PragmataPro. [Available Here](http://www.myfonts.com/fonts
 
 Launch Sublime Text then choose the menu bar options PREFERENCES then BROWSE PACKAGES.
 
-Clone this repo into Packages/ThemeDarkEight
+Clone this repo into Packages/Theme - Dark Eight
 
 Then, just add this line to your user settings file PREFERENCES -> SETTINGS - USER:
 
