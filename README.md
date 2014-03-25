@@ -14,13 +14,35 @@ The font is Essential PragmataPro. [Available Here](http://www.myfonts.com/fonts
 
 # Installation
 
-Launch Sublime Text then choose the menu bar options PREFERENCES then BROWSE PACKAGES.
+### Package Control:
 
-Clone this repo into Packages/ThemeDarkEight
+1. Add this repository to the sublime text package manager
+(PREFERENCES -> PACKAGE CONTROL -> Package control: Add repository)
 
-Then, just add this line to your user settings file PREFERENCES -> SETTINGS - USER:
+2. Paste this repository's URL in the text field that appears
 
-    "theme": "Eight.sublime-theme",
+3. Install the package
+(PREFERENCES -> PACKAGE CONTROL -> Package Control: Install package)
+
+4. Select "Dark Eight"
+
+### Manual installation
+
+1. Clone this repo into Packages/Theme - Dark Eight
+
+## Configuration
+
+Depending on which version of the theme you want, configure Sublime Text
+to use it by adding this line to your user settings file
+(PREFERENCES -> SETTINGS - USER):
+
+Dark version:
+
+    "theme": "Dark Eight.sublime-theme",
+
+Light version (re-make of Eight, since the source is mainly lost):
+
+	"theme": "Light Eight.sublime-theme",
 
 ## License
 
