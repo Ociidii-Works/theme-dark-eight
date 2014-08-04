@@ -1,3 +1,5 @@
+This repository is going to be deleted. If you want ownership let me know before it happens.
+
 # Dark Eight Theme
 
 I finally found a theme that I liked but it wasn't DARK enough. So, here I present Dark Eight.
