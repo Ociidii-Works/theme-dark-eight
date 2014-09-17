@@ -1,8 +1,7 @@
 # Dark Eight Theme
 
-**We have decided to maintain this theme since the original author doesn't use it anymore.** - *[Ociidii-Works](https://github.com/https://github.com/Ociidii-Works/)*
-
-The original repo is [here](https://github.com/ShawnMcCool/theme-dark-eight)
+**We have obtained ownership of the original repo and transferred it here.**
+The original repo resided at ShawnMcCool/theme-dark-eight and credit goes to him for most of the work (as of August 2014).
 
 ### About Dark Eight
 
@@ -22,7 +21,7 @@ Light:
 
 [![Light Preview][3]][4]
 
-The syntax highlighting theme is Pastel Paws. [Available Here](https://github.com/Ociidii-Works/Pastel-Paws.tmTheme)
+The syntax highlighting theme is our very own Pastel Paws. [Available Here](https://github.com/Ociidii-Works/Pastel-Paws.tmTheme)
 
 ### Installation
 
@@ -35,6 +34,7 @@ The syntax highlighting theme is Pastel Paws. [Available Here](https://github.co
 
 #### Alternative manual method
 1. Clone this repo into Packages/Theme - Dark Eight
+    - Make sure it's installed in "Packages/Theme - Dark Eight" ***otherwise it will break***
 
 ### Configuration
 
