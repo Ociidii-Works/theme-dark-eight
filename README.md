@@ -1,5 +1,3 @@
-This repository is going to be deleted. If you want ownership let me know before it happens.
-
 # Dark Eight Theme
 
 **We have obtained ownership of the original repo and transferred it here.**
