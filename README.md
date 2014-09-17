@@ -21,7 +21,8 @@ Light:
 
 [![Light Preview][3]][4]
 
-The syntax highlighting theme is our very own Pastel Paws. [Available Here](https://github.com/Ociidii-Works/Pastel-Paws.tmTheme)
+
+The syntax highlighting theme is our very own Pastel Paws. [Available Here](https://github.com/Ociidii-Works/pastel_paws)
 
 ### Installation
 
@@ -54,7 +55,7 @@ Light version (re-make of Eight, since the source is mainly lost):
 
 Based on the Eight theme by Andreas Westerlind which in turn was based on the Phoenix theme, which is in turn is based on the Soda Theme by Ian Hill (http://buymeasoda.com/)
 
-[1]: https://raw.github.com/Ociidii-Works/theme-dark-eight-cleanup/master/preview/dark_thumbnail.png
-[2]: https://raw.github.com/Ociidii-Works/theme-dark-eight-cleanup/master/preview/dark_full.png
-[3]: https://raw.github.com/Ociidii-Works/theme-dark-eight-cleanup/master/preview/light_thumbnail.png
-[4]: https://raw.github.com/Ociidii-Works/theme-dark-eight-cleanup/master/preview/light_full.png
+[1]: https://raw.githubusercontent.com/Ociidii-Works/dark_eight/master/preview/dark_thumbnail.png
+[2]: https://raw.githubusercontent.com/Ociidii-Works/dark_eight/master/preview/dark_full.png
+[3]: https://raw.githubusercontent.com/Ociidii-Works/dark_eight/master/preview/light_thumbnail.png
+[4]: https://raw.githubusercontent.com/Ociidii-Works/dark_eight/master/preview/light_full.png
