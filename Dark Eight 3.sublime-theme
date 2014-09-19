@@ -814,14 +814,14 @@
         "fg": [180, 180, 180, 255],
         "match_fg": [250, 250, 250, 255],
         "selected_fg": [255, 255, 255, 255],
-        "selected_match_fg": [255, 255, 255, 255],
+        "selected_match_fg": [255, 255, 255, 255]
     },
     {
         "class": "quick_panel_path_label",
         "fg": [120, 120, 120, 255],
         "match_fg": [255, 255, 255, 255],
         "selected_fg": [200, 200, 200, 255],
-        "selected_match_fg": [255, 255, 255, 255],
+        "selected_match_fg": [255, 255, 255, 255]
     },
     {
         "class": "quick_panel_score_label",
