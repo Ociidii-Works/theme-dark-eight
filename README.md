@@ -47,9 +47,21 @@ Dark version:
 
     "theme": "Dark Eight.sublime-theme",
 
+
 Light version (re-make of Eight, since the source is mainly lost):
 
     "theme": "Light Eight.sublime-theme",
+
+### Sublime Text 3 Configuration
+Dark version:
+
+    "theme": "Dark Eight 3.sublime-theme",
+
+
+Light version:
+
+    "theme": "Light Eight 3.sublime-theme",
+
 
 ### License
 
